@@ -36,6 +36,13 @@
 ### 8. **Error Handling**
    - Prints error messages in case the video stream fails to open or read frames.
 
+## Pakage Used
+
+
+```bash
+pip install opencv-python pyvirtualcam pyside6
+
+
 ## Setup Instructions
 
 <a href="https://github.com/Sarwarhridoy4/PyCam/releases/download/1.0/PyCam.exe" download>
