@@ -41,6 +41,7 @@
 
 ```bash
 pip install opencv-python pyvirtualcam pyside6
+```
 
 
 ## Setup Instructions
